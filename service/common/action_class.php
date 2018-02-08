@@ -16,7 +16,7 @@ use Aliyun\Core\DefaultAcsClient;
 use Aliyun\Api\Sms\Request\V20170525\SendSmsRequest;
 use Aliyun\Api\Sms\Request\V20170525\QuerySendDetailsRequest;
 use JPush\Jgpush;
-
+//1245645645612346
  //curl方法
     function curl_get($url){        
              $curl2 = curl_init();                     
