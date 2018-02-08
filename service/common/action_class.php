@@ -17,6 +17,8 @@ use Aliyun\Api\Sms\Request\V20170525\SendSmsRequest;
 use Aliyun\Api\Sms\Request\V20170525\QuerySendDetailsRequest;
 use JPush\Jgpush;
 //1245645645612346
+//项目项目重建54564456546546546654
+费圣诞节嘎斯抠脚大汉放空间撒谎的发快件和速度快解放哈市将豆腐
  //curl方法
     function curl_get($url){        
              $curl2 = curl_init();                     
